@@ -3,6 +3,7 @@
   "pck_name": "RomsHub.pck",
   "release_tag": "v1.0.4",
   "changelog_short": "Correção de bugs e melhoria de performance.",
-  "is_critical_update": false
+  "is_critical_update": true
 }
+
 
