@@ -1,7 +1,8 @@
 {
-  "latest_version": "1.0.3",
+  "latest_version": "1.0.4",
   "pck_name": "RomsHub.pck",
-  "release_tag": "v1.0.3",
+  "release_tag": "v1.0.4",
   "changelog_short": "Correção de bugs e melhoria de performance.",
   "is_critical_update": false
 }
+
